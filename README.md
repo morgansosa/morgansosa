@@ -1,18 +1,35 @@
-## About Me
-Hello! I'm Morgan Sosa, a researcher and developer with a Ph.D. in Physical Chemistry from the University of Oregon and a Bachelor of Science degree in Physics and Chemistry from the University of Washington. My research focused on modeling the evolving mixture of H- and J-aggregates during organic film formation, providing insights into the structural and electronic properties of organic semiconducting molecules for optoelectronic applications.
+# Hi, I'm Morgan 👋
 
-I developed a computationally efficient method to model absorption spectra of organic molecular aggregates, facilitating real-time analysis during thin film formation. This method significantly reduces computational time compared to traditional approaches, aiding in the rational design of organic semiconductors.
+Computational researcher and infrastructure engineer with a PhD in Physical Chemistry. I build tools and systems that make science easier to do — and easier to share.
 
-Currently, I am expanding my skill set in data science and software development. My academic journey has equipped me with strong analytical and problem-solving skills, which I am now applying to new challenges in these fields. I am particularly interested in projects that bridge my expertise in scientific research with modern data science and software development techniques.
+## What I do
 
-This GitHub repository documents my learning journey, featuring projects and lessons in data science and software development. I aim to create a comprehensive portfolio that demonstrates my abilities and integrates my scientific background with new technical proficiencies.
+I design research infrastructure that scientists actually use. My work sits at the intersection of scientific computing, data engineering, and tool design. I care deeply about making powerful things accessible: if a tool requires a manual, it's not done yet.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/morganlsosa) or reach out via email at morgansosa@gmail.com.
+Currently, I'm Director of Computational Research and Data Infrastructure at the [Quantum Biology Institute](https://www.qbi.org/), where I built the institute's research data platform, publishing pipeline, and computational infrastructure from scratch.
 
-### Education
-- **Ph.D. in Physical Chemistry**, University of Oregon
-- **Bachelor of Science in Physics and Chemistry**, University of Washington
+## Current projects
 
-### Publications
-- **Journal Article:** [Revealing the evolving mixture of molecular aggregates during organic film formation using simulations of in situ absorbance](https://pubs.aip.org/aip/jcp/article/153/21/214902/199812), The Journal of Chemical Physics, 2020.
-- **Dissertation:** [Modeling the Evolving Mixture of H- and J-Aggregates During Organic Film Formation](https://scholarsbank.uoregon.edu/xmlui/handle/1794/26206), University of Oregon, 2021.
+- **[spectral-miku](https://github.com/morgansosa/spectral-miku)** — Interactive spectral analysis toolkit for vocal analysis. Built for comparing Vocaloid and human singing, studying vocal techniques, and exploring audio source separation. Features side-by-side spectrogram comparison with synced playback, powered by PyQtGraph.
+
+## Research background
+
+My academic work focused on computational spectroscopy and Monte Carlo simulations of organic semiconducting materials. I developed methods to model absorption spectra of molecular aggregates in real time during thin film formation — work that taught me how to make computationally expensive problems tractable.
+
+- **Publication:** [Revealing the evolving mixture of molecular aggregates during organic film formation using simulations of in situ absorbance](https://doi.org/10.1063/5.0020634), *The Journal of Chemical Physics*, 2020
+- **Dissertation:** Modeling the Evolving Mixture of H- and J-Aggregates During Organic Film Formation, University of Oregon, 2021
+
+## Education
+
+- **Ph.D.** Physical Chemistry, University of Oregon
+- **B.S.** Physics and Chemistry, University of Washington
+
+## Philosophy
+
+I build appliances, not toolkits. If someone has to learn a new workflow to use what I made, I haven't finished making it. The best infrastructure is invisible — it just works, and the people using it can focus on their actual work instead of fighting their tools.
+
+## Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/morgansosa)
+- [Website](https://unseo-gremlin.dev)
+- morgansosa@gmail.com
