@@ -6,7 +6,7 @@ Computational researcher and infrastructure engineer with a PhD in Physical Chem
 
 I design research infrastructure that scientists actually use. My work sits at the intersection of scientific computing, data engineering, and tool design. I care deeply about making powerful things accessible: if a tool requires a manual, it's not done yet.
 
-Currently, I'm Director of Computational Research and Data Infrastructure at the [Quantum Biology Institute](https://www.qbi.org/), where I built the institute's research data platform, publishing pipeline, and computational infrastructure from scratch.
+Currently, I'm Head of Computational Research and Data Infrastructure at the [Quantum Biology Institute](https://www.quantumbiology.org/), where I built the institute's research data platform, publishing pipeline, and computational infrastructure from scratch.
 
 ## Current projects
 
