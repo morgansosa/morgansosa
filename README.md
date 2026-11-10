@@ -11,6 +11,7 @@ Currently, I'm Head of Computational Research and Data Infrastructure at the [Qu
 ## Current projects
 
 - **[spectral-miku](https://github.com/morgansosa/spectral-miku)** — Interactive spectral analysis toolkit for vocal analysis. Built for comparing Vocaloid and human singing, studying vocal techniques, and exploring audio source separation. Features side-by-side spectrogram comparison with synced playback, powered by PyQtGraph.
+- **[proseka-pipeline](https://github.com/morgansosa/proseka-pipeline)** — Airflow pipeline that keeps a SQLite database of Project Sekai songs, charts, and my full-combo history up to date.
 
 ## Research background
 
